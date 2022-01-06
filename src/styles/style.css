@@ -50,3 +50,28 @@ p {
     margin-bottom: 100px;
 }
 
+.main-img {
+    height: 525px;
+    margin-top: 55px;
+    margin-right: -270px;
+}
+
+.flex-inline {
+    display: inline-flex;
+}
+
+.flex-inline div {
+    margin-right: 30px;
+}
+
+.btn-header {
+    padding: 12px 24px 12px 24px;
+    font-weight: bold;
+}
+
+.background-img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+}
+
